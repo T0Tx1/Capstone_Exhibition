@@ -2,8 +2,8 @@
    CSS Variables
    ========================================================================== */
 :root {
-  --main-bg-color: white;
-  --secondary-bg-color: #cbcbcb;
+  --main-bg-color: rgb(169, 20, 20);
+  --secondary-bg-color: #763030;
   --accent-color: #000000;
   --main-text-color: #222;
   --secondary-text-color: #353535;
