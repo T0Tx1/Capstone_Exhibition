@@ -1,13 +1,25 @@
 /* ==========================================================================
    CSS Variables
    ========================================================================== */
+
+@font-face {
+  font-family: DM Sans;
+  src: url(DMSans-VariableFont.ttf);
+}
+
+@font-face {
+  font-family: DM Sans;
+  src: url(DMSans-VariableFont-Italic.ttf);
+  font-style: italic;
+}
+
 :root {
   --main-bg-color: rgb(130, 201, 223);
   --secondary-bg-color: rgb(74, 104, 255);
   --accent-color: #000000;
   --main-text-color: #222;
   --secondary-text-color: #353535;
-  --main-font: "Epilogue", sans-serif;
+  --main-font: "DM Sans", sans-serif;
   --secondary-font: sans-serif;
 }
 
