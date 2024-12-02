@@ -200,7 +200,7 @@ nav {
 }
 .key-image-hero a {
   position: absolute;
-  bottom: 3em;
+  bottom: 0;
   width: 100vw;
   text-align: center;
 }
