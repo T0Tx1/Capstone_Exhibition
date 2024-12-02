@@ -224,7 +224,7 @@ nav {
   max-width: 650px;
 }
 
-.curatorial-left {
+/*.curatorial-left {
   background-image: linear-gradient(
     to top,
     #9e9e9e 0%,
@@ -234,6 +234,15 @@ nav {
     #e9e9e7 100%
   );
 }
+*/
+.key-image-hero{
+  background-position: center;
+  background-image: url('Images/Fragments.svg');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+
+
 .project-section {
   padding: 2em;
   text-align: center;
