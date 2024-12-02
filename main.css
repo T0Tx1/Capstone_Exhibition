@@ -14,8 +14,8 @@
 }
 
 :root {
-  --main-bg-color: rgb(130, 201, 223);
-  --secondary-bg-color: rgb(74, 104, 255);
+  --main-bg-color: #d4b37d;
+  --secondary-bg-color: #5d6d5c;
   --accent-color: #000000;
   --main-text-color: #222;
   --secondary-text-color: #353535;
