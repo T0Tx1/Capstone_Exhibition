@@ -17,8 +17,8 @@
   --main-bg-color: #d4b37d;
   --secondary-bg-color: #5d6d5c;
   --accent-color: #000000;
-  --main-text-color: #222;
-  --secondary-text-color: #353535;
+  --main-text-color: #000000;
+  --secondary-text-color: #1b1b1b;
   --main-font: "DM Sans", sans-serif;
   --secondary-font: sans-serif;
 }
