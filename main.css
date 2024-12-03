@@ -242,7 +242,96 @@ nav {
   background-color: white;
 }
 
-
+#Judy{
+  background-position: center;
+  background-image: url('Images/Judy.jpeg');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#Xiaoqing{
+  background-position: center;
+  background-image: url('Images/Xiaoqing.png');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#Daisy{
+  background-position: center;
+  background-image: url('Images/Daisy.png');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#Rami{
+  background-position: center;
+  background-image: url('Images/Rami.png');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#Tasmeya{
+  background-position: center;
+  background-image: url('Images/Tasmeya.png');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#Alyssa{
+  background-position: center;
+  background-image: url('Images/Alyssa.png');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#Rafiul{
+  background-position: center;
+  background-image: url('Images/Raiful.png');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#Linshan{
+  background-position: center;
+  background-image: url('Images/Linshan.png');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#Yingshi{
+  background-position: center;
+  background-image: url('Images/Yingshi.png');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#Chui{
+  background-position: center;
+  background-image: url('Images/Chui.png');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#Mena{
+  background-position: center;
+  background-image: url('Images/Mena.png');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#Geoffrey{
+  background-position: center;
+  background-image: url('Images/Geoffrey.png');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#Karma{
+  background-position: center;
+  background-image: url('Images/karma.jpeg');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#Huafeng{
+  background-position: center;
+  background-image: url('Images/Huangfeng.png');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#Jason{
+  background-position: center;
+  background-image: url('Images/Jason.png');
+  background-repeat: no-repeat;
+  background-color: white;
+}
 .project-section {
   padding: 2em;
   text-align: center;
