@@ -224,6 +224,18 @@ nav {
   max-width: 650px;
 }
 
+.project-text {
+  align-items: center;
+  padding: 2em;
+}
+.project-left {
+  padding: 0;
+  align-self: auto;
+  max-width: 650px;
+}
+.project-right {
+  padding: 0;
+}
 /*.curatorial-left {
   background-image: linear-gradient(
     to top,
@@ -509,14 +521,14 @@ footer {
   #hamburger {
     display: none;
   }
-  .column-text {
+  :not(.project-text).column-text {
     flex-direction: row;
     justify-content: space-evenly;
   }
-  .column-right {
+  :not(.project-right).column-right {
     padding: 2em 5em 2em 4em;
   }
-  .column-left {
+  :not(.project-left).column-left {
     align-items: center;
   }
   .project-link-container > * {
